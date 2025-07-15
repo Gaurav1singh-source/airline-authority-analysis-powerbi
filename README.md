@@ -1,55 +1,42 @@
-# ✈️ Airline Authority Analysis - Power BI Dashboard
+# Airline Authority Analysis Dashboard using Power BI
 
-This repository contains an interactive Power BI dashboard project titled **"Airline Authority Analysis"**, created using live data from [Worldometers.info](https://www.worldometers.info/coronavirus/) and other sources. The dashboard is designed to provide a visual and analytical overview of the airline industry's status, especially in the context of post-pandemic recovery and operational trends.
+## ✈️ Project Overview
+This project showcases an interactive Power BI dashboard focused on analyzing **airline authority performance and operations**. It presents insights into flight data, passenger statistics, and operational efficiency to support decision-making in the aviation sector.
 
----
+## 📂 Dataset
+The data used in this project is related to:
+- Flight operations
+- Passenger volumes
+- Airport authorities
+- Possibly airline performance or authority-wise segmentation
 
-## 📊 Features
+> Note: The dataset was either manually collected or sourced from publicly available government or aviation datasets.
 
-- Visual representation of airline-wise performance
-- Region-wise analysis of flight operations
-- Impact analysis of COVID-19 on air traffic
-- Dynamic filters and slicers for interactive exploration
-- KPIs such as passenger traffic, cancellation rates, and recovery trends
+## 🛠 Tools & Technologies
+- **Power BI Desktop** – for report creation and data modeling
+- **Power Query** – for data shaping and transformation
+- **DAX** – for calculated measures and KPIs
 
----
+## 📁 Repository Structure
+- `AIRLINE_AUTHORITY_ANALYSIS.pbix` – Main Power BI report file
+- `README.md` – Project documentation and description
 
-## 🛠️ Tools Used
-
-- **Power BI** for data visualization and dashboard development
-- **Web Data Source:** Data imported from online sources like worldometers.info
-- **Data Modeling** and DAX for calculated metrics
-
----
+## 📊 Dashboard Highlights
+- Authority-wise flight and passenger analysis
+- Trend lines for key performance indicators
+- Geographic or categorical visuals (based on data)
+- Dynamic filtering and drill-down capabilities
 
 ## 🚀 How to Use
+1. Download the `.pbix` file from this repository.
+2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
+3. Interact with slicers, filters, and visualizations to explore data.
 
-1. Clone this repository or download the `.pbix` file.
-2. Open the file using **Power BI Desktop**.
-3. Ensure your internet connection is active to refresh live web data.
-4. Explore the visual reports, filters, and insights.
+## 👤 Author
+- **Gaurav Singh**
+- GitHub: [Gaurav1singh-source](https://github.com/Gaurav1singh-source)
 
----
-
-## 📂 File
-
-- `AIRLINE AUTHORITY ANALYSIS.pbix` – The Power BI project file.
-
----
-
-## 📌 Notes
-
-- This dashboard is for educational and analytical purposes.
-- Data was accurate at the time of extraction; live sources may have changed.
+## 📌 Disclaimer
+This project is for educational and demonstration purposes. The data and visuals are based on available information at the time of development and may not reflect real-time or real-world values.
 
 ---
-
-## 📧 Contact
-
-For suggestions, queries, or collaborations, feel free to contact me at:
-- 📬 **GitHub**: [your-username](https://github.com/your-username)
-- 📩 **Email**: your-email@example.com *(Replace with actual contact info)*
-
----
-
-⭐ If you find this project useful, give it a star and share it with others!
